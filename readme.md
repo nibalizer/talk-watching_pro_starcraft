@@ -56,3 +56,5 @@ https://www.youtube.com/watch?v=HJn8DVr0rzo
 https://www.youtube.com/watch?v=DXqTu5j4RHc
 
 
+Tourney info:
+http://wiki.teamliquid.net/starcraft2/2016_Global_StarCraft_II_League_Season_1/Code_S
