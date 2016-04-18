@@ -1,3 +1,7 @@
+These are the speaker notes I used to give a barcamp session called:
+
+How to Watch Professional SC2
+=============================
 
 intro to sc
 
